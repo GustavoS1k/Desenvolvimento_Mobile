@@ -11,6 +11,7 @@ Ao abrir o aplicativo, o usuário encontrará uma tela de login.
 Insira qualquer usuário e senha
 Clique no botão Entrar
 (Validação apenas simulada para fins acadêmicos)
+
 🏠 2. Tela Principal
 
 Após o login, o usuário terá acesso à tela de gerenciamento de atividades.
@@ -19,16 +20,20 @@ Após o login, o usuário terá acesso à tela de gerenciamento de atividades.
 Digite o nome da atividade no campo de texto
 Clique no botão +
 A atividade será adicionada à lista
+
 ✅ 4. Marcar como concluída
 Clique no checkbox ao lado da atividade
 A atividade será marcada como concluída
 O texto ficará riscado
+
 🗑️ 5. Remover atividade
 Clique no ícone de lixeira
 A atividade será removida da lista
+
 🧹 6. Limpar todas as atividades
 Clique no ícone de limpar no topo da tela
 Todas as atividades serão apagadas
+
 📊 7. Acompanhamento
 O sistema mostra a quantidade de atividades concluídas
 Exemplo: 3 / 5 concluídas
