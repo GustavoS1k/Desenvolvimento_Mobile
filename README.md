@@ -1,5 +1,10 @@
 # Desenvolvimento_Mobile
 
+INTEGRANTES: 
+Gustavo Costa Jorge RA: 24000679
+Jhones Medeiros Martins RA: 24000544
+Thauan Tales Paulista RA: 24000758 
+
 📱 Como utilizar o aplicativo
 
 O aplicativo AbracadabraKids foi desenvolvido para facilitar o gerenciamento de atividades infantis de forma simples e intuitiva.
