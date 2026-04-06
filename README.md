@@ -5,7 +5,7 @@ Gustavo Costa Jorge RA: 24000679
 
 Jhones Medeiros Martins RA: 24000544
 
-Thauan Tales Paulista RA: 24000758 
+Thauan Tales Paulista RA: 24000758
 
 ============================================================================
 
